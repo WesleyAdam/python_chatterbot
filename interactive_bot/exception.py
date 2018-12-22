@@ -1,0 +1,2 @@
+class FarewellReply(Exception):
+    pass
