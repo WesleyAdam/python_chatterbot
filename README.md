@@ -33,4 +33,4 @@ print(response)
 ```
 
 ### Analysis
-For more information, visit the [chatterbot docs](https://chatterbot.readthedocs.io/en/stable/index.html).
+More information, visit the [chatterbot docs](https://chatterbot.readthedocs.io/en/stable/index.html).
