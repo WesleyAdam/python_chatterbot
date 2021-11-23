@@ -1,4 +1,4 @@
-# python_chatterbot
+# Chatterbot
 This project aims to show examples of how to create and use the ChatterBot library
 
 
